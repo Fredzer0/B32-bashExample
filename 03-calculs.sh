@@ -8,4 +8,4 @@ echo $resultat
 toto=10*10
 echo $toto
 
-echo "le résultat de $1 - $2 = $(($1-$2)) "
+echo "le résutalt de $1 - $2 = $(($1-$2))"
